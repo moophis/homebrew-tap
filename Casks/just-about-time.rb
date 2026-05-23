@@ -1,6 +1,6 @@
 cask "just-about-time" do
-  version "1.0.1"
-  sha256 "f8d9da13c4014c3257d39b360ed24c15fa78418b53157804fcf3e19cd2620486"
+  version "1.0.6"
+  sha256 "41eaf014830f6c3c64c1a8ffd6b12d890275f773086604a7c1d0604535c579cd"
 
   url "https://github.com/moophis/JustAboutTime/releases/download/v#{version}/JustAboutTime-#{version}.dmg"
   name "JustAboutTime"
