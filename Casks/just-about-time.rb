@@ -7,7 +7,7 @@ cask "just-about-time" do
   desc "Menu bar timer for countdowns and count-up tracking"
   homepage "https://github.com/moophis/JustAboutTime"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "JustAboutTime.app"
 end
